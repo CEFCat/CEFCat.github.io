@@ -173,6 +173,14 @@ gems:
   - jekyll-feed
   - jemoji
 
+#Tags:  
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
