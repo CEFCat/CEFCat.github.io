@@ -156,7 +156,7 @@ timezone: Europe/Madrid
 defaults:
   # _posts
   - scope:
-      path: "/noticies/"
+      path: ""
       type: posts
     values:
       layout: single
