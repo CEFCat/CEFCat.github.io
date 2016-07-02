@@ -7,16 +7,13 @@ main:
     url: /professio/
     
   - title: "Qui som"
-    url: /Equip/
+    url: /equip/
     
   - title: "Què fem"
-    url: /Activitats/
+    url: /activitats/
 
   - title: "Col·legiació"
     url: http://www.ingenierosdemontes.org/Contenidos.aspx?id=colegiacion-colegiados
-
-  - title: "Contacte"
-    url: /contacte/
 
   - title: "Notícies"
     url: /noticies/
