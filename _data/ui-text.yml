@@ -39,35 +39,36 @@ en-AU:
 # Spanish
 # --------------
 es: &DEFAULT_ES
-  page                  : "Página"
+  page                  : "Pàgina"
   pagination_previous   : "Anterior"
-  pagination_next       : "Siguiente"
-  breadcrumb_home_label : "Inicio"
+  pagination_next       : "Següent"
+  breadcrumb_home_label : "Inici"
   breadcrumb_separator  : "/"
-  toc_label             : "Contenidos"
-  ext_link_label        : "Enlace"
-  less_than             : "menos de"
-  minute_read           : "minuto de lectura"
+  toc_label             : "Continguts"
+  ext_link_label        : "Enllaç"
+  less_than             : "menys de"
+  minute_read           : "minut de lectura"
   share_on_label        : "Compartir"
   meta_label            :
-  tags_label            : "Etiquetas:"
-  categories_label      : "Categorías:"
-  date_label            : "Actualizado:"
+  tags_label            : "Etiquetes:"
+  categories_label      : "Categories:"
+  date_label            : "Actualizat:"
   comments_label        : "Comentar"
-  more_label            : "Ver más"
-  related_label         : "Podrías ver también"
+  more_label            : "Veure més"
+  related_label         : "Podries veure també"
   follow_label          : "Seguir:"
   feed_label            : "Feed"
   powered_by            : "Powered by"
-  website_label         : "Sitio web"
+  website_label         : "Lloc web"
   email_label           : "Email"
-  recent_posts          : "Entradas recientes"
-  undefined_wpm         : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
+  recent_posts          : "Entrades recentes"
+  undefined_wpm         : "Paràmetre words_per_minute (Paraules per minut) no definit a _config.yml"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
 
+  
 # French
 # -----------------
 fr: &DEFAULT_FR
