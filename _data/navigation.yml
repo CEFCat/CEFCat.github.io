@@ -17,3 +17,6 @@ main:
 
   - title: "Contacte"
     url: /contacte/
+
+- title: "Notícies"
+    url: /noticies/
