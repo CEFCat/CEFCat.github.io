@@ -11,22 +11,22 @@ header:
   caption: ""
 excerpt: "Col·legi d'Enginyers de Forests. Catalunya."
 
-gallery:
-  - url: logo colegi.jpg
-    image_path: logo colegi.jpg
-    alt: "placeholder image 1"
-    title: "Ofertes de feina"
-  - url: orles.jpg
-    image_path: orles.jpg
-    alt: "placeholder image 2"
-    title: "Agenda"
-  - url: orles.jpg
-    image_path: orles.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+feature_row:
+  - image_path: orles.jpg
+    url: "#test-link"
+    btn_label: "Agenda"
+    btn_class: "btn--inverse"
+  - image_path: orles.jpg
+    url: "#test-link"
+    btn_label: "Agenda"
+    btn_class: "btn--inverse"
+  - image_path: unsplash-gallery-image-3-th.jpg
+    url: "#test-link"
+    btn_label: "Agenda"
+    btn_class: "btn--inverse"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include feature_row %}
 
 {% include base_path %}
 
