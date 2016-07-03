@@ -9,7 +9,7 @@
 locale                   : "es"
 title                    : "CEFC"
 title_separator          : "-"
-name                     : "Col·legi d'Enginyers de Forests | Catalunya"
+name                     : "Col·legi i Associació d'Enginyers de Forests | Catalunya"
 description              : "enginyeria forests catalunya"
 url                      : "https://cefcat.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
