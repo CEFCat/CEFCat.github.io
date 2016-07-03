@@ -13,7 +13,7 @@ main:
     url: /activitats/
 
   - title: "Col·legiació"
-    url: http://www.ingenierosdemontes.org/Contenidos.aspx?id=colegiacion-colegiados
+    url: /collegiacio/
 
   - title: "Notícies"
     url: /noticies/
