@@ -8,3 +8,16 @@ Si us plau, feu arribar les vostres propostes en un termini de 15 dies (fins el 
 
 <strong>ESPEREM LES VOSTRES PROPOSTES!!!</strong><br/>
 <a href="http://www.igenium.cat" class="image featured"><img src="https://cefcat.github.io/images/igenium16.jpg" alt="" /></a>
+
+<footer class="page__meta">
+  <p class="page__taxonomy"> 
+  <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong> 
+  <span itemprop="keywords"> <a href="https://cefcat.github.io/tags/#congressos" class="page__taxonomy-item" rel="tag">Congressos</a>
+  <span class="sep">, </span> <a href="https://cefcat.github.io/tags/#canviclimatic" class="page__taxonomy-item" rel="tag">Canvi Climàtic</a>
+  <span class="sep">, </span> <a href="https://cefcat.github.io/tags/#inec" class="page__taxonomy-item" rel="tag">INEC</a>
+  <span class="sep">, </span> <a href="https://cefcat.github.io/tags/#collegis" class="page__taxonomy-item" rel="tag">Col·legis</a>
+  </span>
+  </p>
+  <p class="page__taxonomy"> <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong> <span itemprop="keywords"> 
+  <a href="https://cefcat.github.io/categories/#noticies" class="page__taxonomy-item" rel="tag">Notícies</a> </span></p>
+  </footer>
