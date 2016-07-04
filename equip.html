@@ -1,30 +1,21 @@
 ---
+title: "Qui som"
 layout: splash
 permalink: /equip/
-title: "Qui som"
-author_profile: true
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: seta.jpg
   caption: ""
-excerpt: "Col·legi i Associació d'Enginyers de Forests. Catalunya. <br/>
-<small>Via laietana, 39. 08003, Barelona. <br/>
+excerpt: "Col·legi i Associació d'Enginyers de Forests. Catalunya. <br/><small>Via laietana, 39. 08003, Barelona. <br/>
 Tfn/Fax: 932 684 081.</small>"
-
 feature_row:
   - image_path: victor.jpg
-    alt: "victor"
     title: "victor"
     excerpt: "Degà: Víctor Resco de Dios. Enginyer de Forests per la Universitat de Lleida i Doctor per la Universitat de Wyoming. Ha estat professor a la Universitat de Sídney, i actualment treballa com a Investigador Ramón y Cajal dins l’àmbit dels incendis forestals i del canvi climàtic a la Universitat de Lleida. Entre d’altres, ha col·laborat en l’elaboració del 5è informe de Canvi Climàtic de les Nacions Unides (IPCC)."
   - image_path: inigo.jpg
-    alt: "inigo"
     title: "inigo"
     excerpt: " Vicedegà: Iñigo Rebollo San Miguel. Enginyer de Forests per la Universitat de Lleida. Activitat professional desenvolupada en el sector privat, ja sigui com a tècnic de consultoria o autònom, abastant diversos àmbits com ara l’obra civil, l’urbanisme, la prevenció d’incendis, la jardineria o el seguiment d’obres."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: marta.png
     title: "marta"
     excerpt: "Vicedegana i Vocal per Barcelona: Marta Martínez Subirà. Enginyera de Forests per la Universitat de Lleida i ET Agrícola per la UPC. Ha treballat a l'empresa privada principalment i en diferents àmbits: estudis ambientals, residus, projectes forestals i projectes agrícoles. També ha participat en projectes de recerca a Turí (Itàlia), i treballat en projectes de Desenvolupament a Moçambic."
@@ -38,16 +29,8 @@ feature_row2:
 ---
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="center" %}
 
 
-{% include base_path %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
 
 {% include paginator.html %}
 
