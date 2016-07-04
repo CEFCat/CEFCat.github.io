@@ -8,6 +8,7 @@ main:
     
   - title: "Qui som"
     url: /equip/
+    children:
       - title: "Junta"
         url: /junta/
       - title: "Comissions"
