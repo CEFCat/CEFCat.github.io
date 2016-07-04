@@ -8,6 +8,11 @@ main:
     
   - title: "Qui som"
     url: /equip/
+      - title: "Junta"
+        url: /junta/
+      - title: "Comissions"
+        url: /comissions/
+    
     
   - title: "Què fem"
     url: /activitats/
