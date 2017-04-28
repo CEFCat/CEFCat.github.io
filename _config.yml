@@ -9,7 +9,7 @@
 locale                   : "es"
 title                    : "CEFC"
 title_separator          : "-"
-name                     : "Col·legi i Associació d'Enginyers de Forests | Catalunya"
+name                     : "Col·legi Oficial i Associació d'Enginyers de Forests | Catalunya"
 description              : "enginyeria forests catalunya"
 url                      : "https://cefcat.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,7 +65,7 @@ google_ad_slot           :
 author:
   name             : "CEFC"
   avatar           : "logo colegi.jpg"
-  bio              : "Col·legi d'Enginyers de Forests | Catalunya"
+  bio              : "Col·legi Oficial d'Enginyers de Forests | Catalunya"
   location         : "Via Laietana, 39  <br/>  08003 Barcelona  <br/>  Tfn/Fax: 932 684 081"
   email            : "info@cefc.cat"
   uri              :
