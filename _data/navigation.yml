@@ -6,9 +6,9 @@ main:
   - title: "Qui som"
     url: /equip/
     children:
-      - title: "Child Link 1"
+      - title: "subgrup1"
         url: /obres/
-      - title: "Child Link 2"
+      - title: "subgrup2"
         url: /obres/
     
   - title: "Què fem"
