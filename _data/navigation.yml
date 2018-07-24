@@ -15,10 +15,10 @@ main:
     url: /activitats/
     
   - title: "Serveis als col·legiats"
-    url: /formacio/
+    url: /obres/
     
   - title: "Formació"
-    url: /formacio/
+    url: /obres/
 
   - title: "Col·legiació"
     url: /collegiacio/
