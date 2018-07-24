@@ -14,6 +14,9 @@ main:
   - title: "Què fem"
     url: /activitats/
     
+- title: "Serveis als col·legiats"
+#    url: /activitats/
+    
   - title: "Formació"
     url: /formacio/
 
