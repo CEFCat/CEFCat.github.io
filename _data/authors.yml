@@ -1,0 +1,19 @@
+Anna:
+  name: "Anna Sanitjas"
+  email: "deganat@cefc.cat"
+  bio: "Endavant les atxes"
+ # avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "AnnaSanitjas"
+
+Cristina:
+  name: "Cristina Montserrat"
+  email: "vicedeganat@cefc.cat"
+  bio: "Endavant les atxes"
+ # avatar: "/assets/images/bio-photo.jpg"
+  twitter: "CrisEntrearbres"
+
+Ignacio:
+  name: "Ignacio López"
+  email: "formacio@cefc.cat"
+  bio: "Endavant les atxes!"
+  twitter: "TBForest2014"
