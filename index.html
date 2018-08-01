@@ -34,7 +34,9 @@ feature_row:
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 {% for post in paginator.posts %}
+  {% if post.clase == 'noticia' %}
   {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 {% include paginator.html %}
