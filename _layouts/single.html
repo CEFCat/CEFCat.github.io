@@ -36,13 +36,13 @@ layout: default
       <section class="page__content" itemprop="text">
 
        {% if page.clase == 'formacio' %}
-       {% include header_accio_formativa.html %}
+        {% include header_accio_formativa.html %}
        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
       </section>
 
-       {% if page.clase != 'formacio' %}
+      {% if page.clase != 'formacio' %}
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
