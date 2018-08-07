@@ -10,13 +10,16 @@ main:
         url: /obres/
       - title: "subgrup2"
         url: /obres/
-    
-  - title: "Què fem"
+      
+  - title: "Serveis dels col·legiats"
     url: /obres/
     
-  - title: "Serveis als col·legiats"
+  - title: "L'ACEMN"
     url: /obres/
-    
+  
+  - title: "Apps i referències"
+    url: /obres/    
+  
   - title: "Formació"
     url: /formacio/
 
