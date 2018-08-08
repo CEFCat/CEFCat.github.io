@@ -1,31 +1,30 @@
 ---
 layout: archive
-permalink: /formacio/
-title: "Formació"
+permalink: /empresesColegiats/
+title: "Empreses on donen serveis els nostres col·legiats"
 author_profile: true
 
 gallery:
   - url: junta.jpg
     image_path: junta.jpg
-    alt: "Junta CEFC"
-    title: "Junta CEFC"
+    alt: "Empreses dels col·legiats"
+    title: "Empreses dels col·legiats"
     
 categories:
-  - formació
+  - empreses
   - serveis
 tags:
-  - formació
-  - cursos
-  - ocupabilitat
+  - col·legiats
+  - serveis
+  - ocupació
 ---
-Convocatòries de formació de diversos tipus.<br>
-Si voleu oferir un curs o coneixeu d'algú d'interès per a la resta de col·legiades i col·legiats, dirigiu-vos a la següent adreça:<br>
-<img src="/images/formacioCEFC3.png" alt="Contacte de formació"><br>
-<a href="https://www.ingenierosdemontes.org/formacion/" class="btn btn--success">Consultar la formació oferida pel Colegio Oficial de Ingenieros de Montes</a>
+Des del Col·legi d'Enginyers de Forests i des de l'Associació d'Enginyeria del Medi Natural entenem que la formació com Enginyer/a de Forests atorga al titulat una sèrie de valors com ara l'honestedat, la perseverança, l'eperit crític, etc. que fan que considerem que les empreses o institucions que compten amb un/a tinguin un caràcter de servei d'alta qualificació. Per aquesta raó us oferim ací un llistat de les empreses on es pot trobar el servei de col·legiats/-des Enginyers/res de Forests o d'empreses fundades per aquests/es.<br>
+Val a dir que un percentatge important dels col·legiats i col·legiades treballen en institucions públiques, como ara la Generalitat de Catalunya, les Diputacions Provincials, els Consells Comarcals, Ajuntaments, Centres de Recerca, etc. i per tant, ja us estan donant un servei sense la necessitat de contactar-lo. Les Enginyeres i Enginyers de Forests donen serveis dins els ecosistemes forestals des de fa més de 150 anys<br>
+<h2>Empreses</h2>
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts reversed %}
-  {% if post.clase == 'formacio' %}
+  {% if post.clase == 'empreses' %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
