@@ -25,7 +25,7 @@
         </div>
       {% endif %}
       <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %} {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h3>
-      {{ post.contacte }} {{ post.web }} {{ post.serveis.s1 }} 
+      Correu:{{ post.contacte }} Web:{{ post.web }} Serveis:{{ post.serveis }} 
      
     </article>
   </a>
