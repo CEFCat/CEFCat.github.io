@@ -24,7 +24,7 @@ El visat i el resgistre de treballs professionals us donarà una garantia extra 
 <h2>Empreses</h2>
 {% include base_path %}
 
-{% for post in site.posts reversed %}
+{% for post in site.posts %}
   {% if post.clase == 'empreses' %}
   
   {% include empreses-llista.html %}
