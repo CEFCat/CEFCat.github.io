@@ -24,7 +24,7 @@
             alt="">
         </div>
       {% endif %}
-      <h2 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %} {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h2>
+      <h2 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.iniciYYYYMMDD }} {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.iniciYYYYMMDD }}  {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h2>
       
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     </article>
