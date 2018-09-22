@@ -1,24 +1,22 @@
 
 <table>
   <tbody>
-     <tr>
-      <td style="width: 30%;"><h1>Inici</h1></td>
+    <tr>
+      <td style="width: 30%;"><h1>Data</h1></td>
       <td style="width: 70%;"><h1>{{ page.inici }}</h1></td>
-    </tr>
+    </tr>   
   {% if page.fi %}
     <tr>
-      <td style="width: 30%;"><h1>Fi</h1></td>
+      <td style="width: 30%;"><h1>Data finalització</h1></td>
       <td style="width: 70%;">{{ page.fi }}</td>
     </tr> 
-     {% endif %}
+  {% endif %}
     <tr>
       <td style="width: 30%;"><h1>On</h1></td>
       <td style="width: 70%;"><h1>{{ page.lloc }}</h1></td>
     </tr>
-
- 
     <tr>
-      <td style="width: 30%;">Més informació</td>
+      <td style="width: 30%;"><h1>Més informació</h1></td>
       <td style="width: 70%;"><a href="{{ page.enllac }}">{{ page.enllac }}</a></td>
     </tr>
   </tbody>
