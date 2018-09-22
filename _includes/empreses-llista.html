@@ -22,10 +22,10 @@
         </div>
       {% endif %}
       <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %} {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h3>
-      Contacte: {{ post.contacte }} <br>Web: <a href="http://{{ post.web }}">{{ post.web }}</a> <br>
-      Serveis: <ul>{% for item in post.serveis %}<li>{{ item }}</li>{% endfor %}</ul>
       Col·legiats: <ul>{% for item in post.colegiat %}<li>{{ item }}</li>{% endfor %}</ul>
-     
+      Serveis: <ul>{% for item in post.serveis %}<li>{{ item }}</li>{% endfor %}</ul>
+      Web: <a href="http://{{ post.web }}">{{ post.web }}</a> <br>
+      Contacte: {{ post.contacte }} <br>
     </article>
   </a>
 </div>
