@@ -21,7 +21,7 @@
             alt="">
         </div>
       {% endif %}
-      <h3 class="archive__item-title" itemprop="headline">{% if post.id %}<a href="http://{{ post.web }}" class="btn btn--inverse">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>{% else %} <a href="http://{{ post.web }}" class="btn btn--inverse">{{ post.title }}</a>{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h3>
+      <h3 class="archive__item-title" itemprop="headline">{% if post.id %}<a href="http://{{ post.web }}" >{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>{% else %} <a href="http://{{ post.web }}" >{{ post.title }}</a>{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h3>
       Col·legiats: <ul>{% for item in post.colegiat %}<li>{{ item }}</li>{% endfor %}</ul>
       Serveis: <ul>{% for item in post.serveis %}<li>{{ item }}</li>{% endfor %}</ul>
       Web: <a href="http://{{ post.web }}">{{ post.web }}</a> <br>
