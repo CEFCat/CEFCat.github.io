@@ -26,11 +26,13 @@ Si voleu oferir un curs o coneixeu d'algú d'interès per a la resta de col·leg
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts reversed %}
   {% if post.clase == 'formacio' %}
+  {% if post.date > site.time %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single-formacio.html %}
+  {% endif %}
   {% endif %}
 {% endfor %}
