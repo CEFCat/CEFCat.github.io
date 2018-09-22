@@ -22,6 +22,9 @@ main:
   
   - title: "Formació"
     url: /formacio/
+    
+  - title: "Agenda"
+    url: /agenda/    
 
   - title: "Col·legiació"
     url: /collegiacio/
