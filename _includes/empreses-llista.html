@@ -7,10 +7,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  {% if post.link %}
-    <a href="{{ post.link }}" target="_blank">
-  {% else %}
-    <a href="{{ base_path }}{{ post.url }}">
+  
   {% endif %}
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       {% if include.type == "grid" and teaser != blank %}
@@ -25,7 +22,7 @@
         </div>
       {% endif %}
       <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %} {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h3>
-      Correu: {{ post.contacte }} <br>Web: {{ post.web }} <br>
+      Contacte: {{ post.contacte }} <br>Web: <a href="http://{{ post.web }}">{{ post.web }}</a> <br>
       Serveis: <ul>{% for item in post.serveis %}<li>{{ item }}</li>{% endfor %}</ul>
       Col·legiats: <ul>{% for item in post.colegiat %}<li>{{ item }}</li>{% endfor %}</ul>
      
