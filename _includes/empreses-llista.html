@@ -25,7 +25,10 @@
       Col·legiats: <ul>{% for item in post.colegiat %}<li>{{ item }}</li>{% endfor %}</ul>
       Serveis: <ul>{% for item in post.serveis %}<li>{{ item }}</li>{% endfor %}</ul>
       Web: <a href="http://{{ post.web }}">{{ post.web }}</a> <br>
-      Contacte: {{ post.contacte }} <br>
+      {% if post.adresa %}Adreça: {{ post.adresa }}<br>{% endif %}
+      {% if post.telefon %}Telèfon: {{ post.telefon }}<br>{% endif %}
+      e-correu: {{ post.correu }} <br>
+      
       <hr>
     </article>
  
