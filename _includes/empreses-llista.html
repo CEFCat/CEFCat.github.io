@@ -27,7 +27,7 @@
       Web: <a href="http://{{ post.web }}">{{ post.web }}</a> <br>
       {% if post.adresa %}Adreça: {{ post.adresa }}<br>{% endif %}
       {% if post.telefon %}Telèfon: {{ post.telefon }}<br>{% endif %}
-      e-correu: {{ post.correu }} <br>
+      e-correu:  <a href="mailto:{{ post.correu }}">{{ post.correu }}</a> <br>
       
       <hr>
     </article>
