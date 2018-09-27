@@ -1,31 +1,30 @@
 ---
-layout: archive
-permalink: /formacio/
-title: "Formació"
+layout: single
+permalink: /perImprimir/
+title: "Pàgina per copiar i enganar en correu"
 author_profile: true
 
-gallery:
-  - url: junta.jpg
-    image_path: junta.jpg
-    alt: "Junta CEFC"
-    title: "Junta CEFC"
-    
-categories:
-  - formació
-  - serveis
-tags:
-  - formació
-  - cursos
-  - ocupabilitat
+
 ---
-Convocatòries de formació de diversos tipus.<br>
-Si voleu oferir un curs o coneixeu d'algú d'interès per a la resta de col·legiades i col·legiats, dirigiu-vos a la següent adreça:<br>
-<img src="/images/formacioCEFC3.png" alt="Contacte de formació"><br>
-<a href="https://www.ingenierosdemontes.org/formacion/" class="btn btn--success">Consultar la formació oferida pel Colegio Oficial de Ingenieros de Montes</a>
+
+<a href="http://www.cefc.cat/formacio"><h1>Formació</h1></a>
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts reversed %}
   {% if post.clase == 'formacio' %}
+  {% if post.date > site.time %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single-formacio.html %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+<a href="http://www.cefc.cat/agenda"><h1>Agenda</h1></a>
+{% for post in site.posts reversed %}
+  {% if post.clase == 'agenda' %}
   {% if post.date > site.time %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
