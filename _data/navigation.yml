@@ -12,7 +12,7 @@ main:
         url: /obres/
       
   - title: "Serveis dels col·legiats"
-    url: /obres/
+    url: /empresesColegiats/
     
   - title: "L'ACEMN"
     url: /acemn/
