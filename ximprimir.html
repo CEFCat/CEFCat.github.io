@@ -35,3 +35,16 @@ author_profile: true
   {% endif %}
   {% endif %}
 {% endfor %}
+<a href="http://www.cefc.cat/noticies/"><h1>Notícies</h1></a>
+{% for post in site.posts %}
+  {% if post.clase == 'noticies' %}
+  {% if post.date > site.time %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single-formacio.html %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
