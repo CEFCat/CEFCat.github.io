@@ -7,11 +7,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  {% if post.link %}
-    <a href="{{ post.link }}" target="_blank">
-  {% else %}
-    <a href="{{ base_path }}{{ post.url }}">
-  {% endif %}
+  
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       {% if include.type == "grid" and teaser != blank %}
         <div class="archive__item-teaser">
@@ -24,11 +20,16 @@
             alt="">
         </div>
       {% endif %}
-      <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.iniciDDMMYYYY }} {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.iniciDDMMYYYY }}  {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}</h3>
+      <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{{ post.iniciDDMMYYYY }} {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.iniciDDMMYYYY }}  {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}
+       {% if post.link %}
+         <a href="{{ post.link }}" target="_blank">
+       {% else %}
+         <a href="{{ base_path }}{{ post.url }}">
+       {% endif %}+info</a></h3>
       
       
     
     </article>
-  </a>
+  
 </div>
 
