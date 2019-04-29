@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /aplicacionsReferencies/
 title: Aplicacions i referències
 ---
