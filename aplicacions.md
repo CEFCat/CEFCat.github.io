@@ -2,6 +2,7 @@
 layout: single
 permalink: /aplicacionsReferencies/
 title: Aplicacions i referències
+author_profile: true
 ---
 # Aplicacions
 Si teniu aplicacions pròpies o en coneixeu que puguin ser d'utilitat per a la resta de professionals del sector, envieu-nos un correu a [Formació](formacio@cefc.cat).
