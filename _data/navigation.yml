@@ -11,8 +11,8 @@ main:
       - title: "subgrup2"
         url: /obres/
       
-  - title: "Serveis dels col·legiats"
-    url: /empresesColegiats/
+ # - title: "Serveis dels col·legiats"
+ #   url: /empresesColegiats/
     
   - title: "L'ACEMN"
     url: /acemn/
