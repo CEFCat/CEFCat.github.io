@@ -21,5 +21,5 @@ L'OruxMaps és una App per a Android molt versàtil pensada inicialment per a ex
 ## IFNApp
 L'IFNApp és la primera peça del recentment desenvolupat *Portal de boscos i canvi climàtic de Catalunya*. És la versió actual del Mirabosc On-line que permet consultar ja les dades del 4t Inventari Forestal Nacional Espanyol. [Pàgina de l'aplicació](http://ifnapp.creaf.cat/)
 
-##Calculadora d'instal·lacions de biomassa
+## Calculadora d'instal·lacions de biomassa
 Pàgina web que permet realitzar càlculs varis relacionats amb els consums, volums i preus de biocombustibles sòlids en instal·lacions de valorització energètica. [Pàgina web de la calculadora](http://www.serveistecnicsenerfust.com/es/calculadora-segun-combustible.html)
