@@ -25,3 +25,5 @@ Des del Col·legi d'Enginyers de Forests a Catalunya, encoratgem a tots els engi
 
 Més informació:
 - [Directrius per a la gestió dels espais de la xarxa Natura 2000 - Generalitat de Catalunya, Setembre 2006](\documents\directrius_gestioXN2000.pdf)
+- Programa de Desenvolupament Rural de Catalunya 2014-2020
+- Anàlisi i Prospectiva: Xarxa Natura 2000 - Ministerio de Agricultura, 2010
