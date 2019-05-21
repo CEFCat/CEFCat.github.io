@@ -22,3 +22,6 @@ Hi ha 5 aspectes de rellevància quant al paper que la gestió forestal té resp
 - la gestió forestal, ja sigui orientada o no a la prevenció d'incendis forestals, permet millorar la xarxa viària forestal i regular els nivells d'acumulació de biomassa, que, en cas d'incendi, d'una banda disminueix la probabilitat que aquest foc passi a foc de capçades o s'estengui amb gran velocitat convertint-se en un gran incendi forestal (GIF), i d'altra banda facilita l'accés dels mitjans d'extinció en cas d'ocurrència d'un foc. Prevenir els grans incendis forestals es també conservar la natura
 
 Des del Col·legi d'Enginyers de Forests a Catalunya, encoratgem a tots els enginyers i enginyeres que treballen en el medi natural a continuar fent-ho amb la visió integradora amb què hem estat formats: conservant, aprofitant, adaptant i millorant els boscos que el nostre país estima i necessita.
+
+Més informació:
+- [Directrius per a la gestió dels espais de la xarxa Natura 2000 - Generalitat de Catalunya, Setembre 2006](\documents\directrius_gestioXN2000.pdf)
