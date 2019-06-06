@@ -18,6 +18,11 @@ Aquesta capa conté informació de cada zona de pesca: ubicació, com, quan i qu
 ## OruxMaps
 L'OruxMaps és una App per a Android molt versàtil pensada inicialment per a excursionisme però molt útil per als professionals de l'enginyeria forestal per a la captura de dades GPS a camp i de gran ajuda per a replantejos. Es troba en GooglePlay però l'App gratuïta s'ha de descarregar directament de la seva web a [OruxMapx.com](https://www.oruxmaps.com/cs/es/). L'Administració forestal de Catalunya, concretament el Centre de la Propietat Forestal, va fer una interessant publicació sobre l'ús d'aquesta aplicació en el sector. Llegiu més [aquí](http://cpf.gencat.cat/web/.content/or_organismes/or04_centre_propietat_forestal/01_organisme/publicacions/revista_silvicultura/numeros_publicats/documents/Silvicultura_77_web.pdf) a partir de la pàgina 33.
 
+## App MapICC (beta)
+Aplicació per Android per a la visualització de la cartografia de l'Institut Cartogràfic i Geològic de Catalunya, amb i sense connexió de dades. Davant OruxMaps, ofereix l'avantatge d'oferir la cartografía més adient per a cada nivell de zoom.
+La trobareu a [Google Play](https://play.google.com/store/apps/details?id=com.appiccmobile).
+
+
 ## IFNApp
 L'IFNApp és la primera peça del recentment desenvolupat *Portal de boscos i canvi climàtic de Catalunya*. És la versió actual del Mirabosc On-line que permet consultar ja les dades del 4t Inventari Forestal Nacional Espanyol. [Pàgina de l'aplicació](http://ifnapp.creaf.cat/)
 
