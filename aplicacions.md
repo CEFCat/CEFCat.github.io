@@ -22,6 +22,8 @@ L'OruxMaps és una App per a Android molt versàtil pensada inicialment per a ex
 Aplicació per Android per a la visualització de la cartografia de l'Institut Cartogràfic i Geològic de Catalunya, amb i sense connexió de dades. Davant OruxMaps, ofereix l'avantatge d'oferir la cartografía més adient per a cada nivell de zoom.
 La trobareu a [Google Play](https://play.google.com/store/apps/details?id=com.appiccmobile).
 
+## Comparador d'Ortos
+Entre algunes de les aplicacions web (beta) que té l'ICGC es troba la [comparadora d'ortofotos](http://betaportal.icgc.cat/canurb/cathistoric.html), que permet veure simultàniament 3 ortofotos diferents de la sèria històrica de què disposa.
 
 ## IFNApp
 L'IFNApp és la primera peça del recentment desenvolupat *Portal de boscos i canvi climàtic de Catalunya*. És la versió actual del Mirabosc On-line que permet consultar ja les dades del 4t Inventari Forestal Nacional Espanyol. [Pàgina de l'aplicació](http://ifnapp.creaf.cat/)
