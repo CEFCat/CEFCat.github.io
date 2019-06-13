@@ -30,3 +30,6 @@ L'IFNApp és la primera peça del recentment desenvolupat *Portal de boscos i ca
 
 ## Calculadora d'instal·lacions de biomassa
 Pàgina web que permet realitzar càlculs varis relacionats amb els consums, volums i preus de biocombustibles sòlids en instal·lacions de valorització energètica. [Pàgina web de la calculadora](http://www.serveistecnicsenerfust.com/es/calculadora-segun-combustible.html)
+
+## El monte enseña
+[@eforestal / Educación Forestal](https://twitter.com/eforestal) ha recollit en [aquesta pàgina](http://almazcara.forestry.es/2017/12/el-monte-ensena-solo-hay-que-fijarse.html) totes les piulades fetes per [Rafael Serrada](https://twitter.com/RafaelSerrada1) en la seva sèrie "El monte enseña, sólo hay que fijarse". 
