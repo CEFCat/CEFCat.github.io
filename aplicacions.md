@@ -33,3 +33,6 @@ Pàgina web que permet realitzar càlculs varis relacionats amb els consums, vol
 
 ## El monte enseña
 [@eforestal / Educación Forestal](https://twitter.com/eforestal) ha recollit en [aquesta pàgina](http://almazcara.forestry.es/2017/12/el-monte-ensena-solo-hay-que-fijarse.html) totes les piulades fetes per [Rafael Serrada](https://twitter.com/RafaelSerrada1) en la seva sèrie "El monte enseña, sólo hay que fijarse". 
+
+## Fototeca de l'INIA
+Si necessiteu fotografies del acomplimen històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://wwwx.inia.es/fototeca/index.jsp) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
