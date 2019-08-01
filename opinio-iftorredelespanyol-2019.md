@@ -1,7 +1,8 @@
 ---
 layout: single
 permalink: /opinio-if-torre-de-lespanyol/
-title: 
+title: "Opinió: Incendis, món rural, i com posar els fonaments per què tot canvie"
+author: guillem
 author_profile: true
 published: false
 
