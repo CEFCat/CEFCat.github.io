@@ -1,8 +1,9 @@
 ---
 layout: single
-permalink: /documentacio-curs-urbanisme-2019/
-title: Documentació de la sessió formativa "Planificació Urbanística i Territorial" del 20 de juny de 2019
+permalink: /opinio-if-torre-de-lespanyol/
+title: 
 author_profile: true
+published: false
 
 ---
 
