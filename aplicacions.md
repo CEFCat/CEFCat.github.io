@@ -37,5 +37,5 @@ Pàgina web que permet realitzar càlculs varis relacionats amb els consums, vol
 ## Fototeca de l'INIA
 Si necessiteu fotografies del acomplimen històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://wwwx.inia.es/fototeca/index.jsp) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
 
-## Mak marker
+## Map marker
 Es tracta d'una aplicació ràpida i lleugera que permet crear, importar i compartir capes kml/kmz amb molta facilitat. De més senzilla utilització per a empreses forestals que OruxMaps. [Web de l'app a Google Play.](https://play.google.com/store/apps/details?id=com.exlyo.mapmarker&hl=es) [Web de l'app en l'Apple Store](https://apps.apple.com/us/app/map-marker-places-organizer/id1287281807)
