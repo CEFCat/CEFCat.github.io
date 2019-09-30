@@ -18,9 +18,6 @@ Aquesta capa conté informació de cada zona de pesca: ubicació, com, quan i qu
 ## OruxMaps
 L'OruxMaps és una App per a Android molt versàtil pensada inicialment per a excursionisme però molt útil per als professionals de l'enginyeria forestal per a la captura de dades GPS a camp i de gran ajuda per a replantejos. Es troba en GooglePlay però l'App gratuïta s'ha de descarregar directament de la seva web a [OruxMapx.com](https://www.oruxmaps.com/cs/es/). L'Administració forestal de Catalunya, concretament el Centre de la Propietat Forestal, va fer una interessant publicació sobre l'ús d'aquesta aplicació en el sector. Llegiu més [aquí](http://cpf.gencat.cat/web/.content/or_organismes/or04_centre_propietat_forestal/01_organisme/publicacions/revista_silvicultura/numeros_publicats/documents/Silvicultura_77_web.pdf) a partir de la pàgina 33.
 
-## App MapICC (beta)
-Aplicació per Android per a la visualització de la cartografia de l'Institut Cartogràfic i Geològic de Catalunya, amb i sense connexió de dades. Davant OruxMaps, ofereix l'avantatge d'oferir la cartografía més adient per a cada nivell de zoom.
-La trobareu a [Google Play](https://play.google.com/store/apps/details?id=com.appiccmobile).
 
 ## Comparador d'Ortos
 Entre algunes de les aplicacions web (beta) que té l'ICGC es troba la [comparadora d'ortofotos](http://betaportal.icgc.cat/canurb/cathistoric.html), que permet veure simultàniament 3 ortofotos diferents de la sèria històrica de què disposa.
@@ -35,7 +32,7 @@ Pàgina web que permet realitzar càlculs varis relacionats amb els consums, vol
 [@eforestal / Educación Forestal](https://twitter.com/eforestal) ha recollit en [aquesta pàgina](http://almazcara.forestry.es/2017/12/el-monte-ensena-solo-hay-que-fijarse.html) totes les piulades fetes per [Rafael Serrada](https://twitter.com/RafaelSerrada1) en la seva sèrie "El monte enseña, sólo hay que fijarse". 
 
 ## Fototeca de l'INIA
-Si necessiteu fotografies del acomplimen històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://wwwx.inia.es/fototeca/index.jsp) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
+Si necessiteu fotografies de l'acompliment històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://wwwx.inia.es/fototeca/index.jsp) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
 
 ## Map marker
 Es tracta d'una aplicació ràpida i lleugera que permet crear, importar i compartir capes kml/kmz amb molta facilitat. De més senzilla utilització per a empreses forestals que OruxMaps. [Web de l'app a Google Play.](https://play.google.com/store/apps/details?id=com.exlyo.mapmarker&hl=es) [Web de l'app en l'Apple Store](https://apps.apple.com/us/app/map-marker-places-organizer/id1287281807)
