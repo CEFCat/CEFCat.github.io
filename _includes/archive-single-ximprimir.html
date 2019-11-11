@@ -20,7 +20,7 @@
             alt="">
         </div>
       {% endif %}
-      <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{% if post.iniciDDMMYYYY %}{{ post.iniciDDMMYYYY }} - {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.iniciDDMMYYYY }}{{ post.title }{% endif %}{% else %}{{ post.iniciDDMMYYYY }} {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}
+      <h3 class="archive__item-title" itemprop="headline">{% if post.id %}{% if post.iniciDDMMYYYY %}{{ post.iniciDDMMYYYY }} - {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}{% else %}{{ post.title }}{% endif %}{% else %}{{ post.iniciDDMMYYYY }} {{ post.title }}{% endif %}{% if post.link %}<i class="fa fa-star" aria-hidden="true"></i>{% endif %}
        {% if post.link %}
          <a href="{{ post.link }}" target="_blank">
        {% else %}
