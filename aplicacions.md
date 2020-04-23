@@ -40,7 +40,7 @@ La Cartoteca de Catalunya aplega documentació cartogràfica antiga i moderna de
 Repositori cooperatiu des del que es poden consultar, en accés obert, col·leccions digitalitzades relacionades amb Catalunya i el seu patrimoni o que formen part de col·leccions especials d'institucions científiques, culturals i/o erudites catalanes. Existeix la possibilitat d'aplicar diferents filtres. [Web del catàleg](http://mdc.csuc.cat/cdm/search/)
 
 ## Fototeca de l'INIA
-Si necessiteu fotografies de l'acompliment històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://wwwx.inia.es/fototeca/index.jsp) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
+Si necessiteu fotografies de l'acompliment històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://rdm.inia.es/es/dataset/fototeca) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
 
 ## Wind Guru
 Es tracta d'una pàgina web on es pot accedir a mapes de predicció de vent i pluges de manera molt intuïtiva i visual, i a escales molt detallades. [Web de Wind Guru](https://www.windguru.cz/)
