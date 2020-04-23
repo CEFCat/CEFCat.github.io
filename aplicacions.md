@@ -18,6 +18,8 @@ Aquesta capa conté informació de cada zona de pesca: ubicació, com, quan i qu
 ## OruxMaps
 L'OruxMaps és una App per a Android molt versàtil pensada inicialment per a excursionisme però molt útil per als professionals de l'enginyeria forestal per a la captura de dades GPS a camp i de gran ajuda per a replantejos. Es troba en GooglePlay però l'App gratuïta s'ha de descarregar directament de la seva web a [OruxMapx.com](https://www.oruxmaps.com/cs/es/). L'Administració forestal de Catalunya, concretament el Centre de la Propietat Forestal, va fer una interessant publicació sobre l'ús d'aquesta aplicació en el sector. Llegiu més [aquí](http://cpf.gencat.cat/web/.content/or_organismes/or04_centre_propietat_forestal/01_organisme/publicacions/revista_silvicultura/numeros_publicats/documents/Silvicultura_77_web.pdf) a partir de la pàgina 33.
 
+## Map marker
+Es tracta d'una aplicació ràpida i lleugera que permet crear, importar i compartir capes kml/kmz amb molta facilitat. De més senzilla utilització per a empreses forestals que OruxMaps. [Web de l'app a Google Play.](https://play.google.com/store/apps/details?id=com.exlyo.mapmarker&hl=es) [Web de l'app en l'Apple Store](https://apps.apple.com/us/app/map-marker-places-organizer/id1287281807)
 
 ## Comparador d'Ortos
 Entre algunes de les aplicacions web (beta) que té l'ICGC es troba la [comparadora d'ortofotos](http://betaportal.icgc.cat/canurb/cathistoric.html), que permet veure simultàniament 3 ortofotos diferents de la sèria històrica de què disposa.
@@ -31,8 +33,17 @@ Pàgina web que permet realitzar càlculs varis relacionats amb els consums, vol
 ## El monte enseña
 [@eforestal / Educación Forestal](https://twitter.com/eforestal) ha recollit en [aquesta pàgina](http://almazcara.forestry.es/2017/12/el-monte-ensena-solo-hay-que-fijarse.html) totes les piulades fetes per [Rafael Serrada](https://twitter.com/RafaelSerrada1) en la seva sèrie "El monte enseña, sólo hay que fijarse". 
 
+## Cartoteca digital de l'ICGC
+La Cartoteca de Catalunya aplega documentació cartogràfica antiga i moderna de tot el món. Creada l’any 1985 i integrada dins l’[Institut Cartogràfic i Geològic de Catalunya](https://icgc.cat/), posa a disposició de tothom mapes, llibres, fotografies i fons documentals relacionats amb el territori. Es poden fer cerques i filtres per col·lecció, ubicació, data i tema. [Web de la Cartoteca Digital](https://cartotecadigital.icgc.cat/digital/search/)
+
+## Memòria Digital de Catalunya
+Repositori cooperatiu des del que es poden consultar, en accés obert, col·leccions digitalitzades relacionades amb Catalunya i el seu patrimoni o que formen part de col·leccions especials d'institucions científiques, culturals i/o erudites catalanes. Existeix la possibilitat d'aplicar diferents filtres. [Web del catàleg](http://mdc.csuc.cat/cdm/search/)
+
 ## Fototeca de l'INIA
 Si necessiteu fotografies de l'acompliment històric de les tasques de l'enginyeria forestal, en [aquesta pàgina](http://wwwx.inia.es/fototeca/index.jsp) podeu accedir a la fototeca forestal espanyola, recopilada per l'INIA.
 
-## Map marker
-Es tracta d'una aplicació ràpida i lleugera que permet crear, importar i compartir capes kml/kmz amb molta facilitat. De més senzilla utilització per a empreses forestals que OruxMaps. [Web de l'app a Google Play.](https://play.google.com/store/apps/details?id=com.exlyo.mapmarker&hl=es) [Web de l'app en l'Apple Store](https://apps.apple.com/us/app/map-marker-places-organizer/id1287281807)
+## Wind Guru
+Es tracta d'una pàgina web on es pot accedir a mapes de predicció de vent i pluges de manera molt intuïtiva i visual, i a escales molt detallades. [Web de Wind Guru](https://www.windguru.cz/)
+
+## Mapa de vents
+En aquesta web podeu veure en mapes de diverses projeccions els vents a diferents alçades atmosfèriques des de 2013 a escala gran, incloent dades de prediccions. [Web de Cameron Beccario](https://earth.nullschool.net/#current/wind/surface/level/)
