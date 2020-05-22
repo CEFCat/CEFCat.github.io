@@ -7,6 +7,9 @@ author_profile: true
 
 Si teniu aplicacions pròpies o en coneixeu que puguin ser d'utilitat per a la resta de professionals del sector, o si detecteu si algú d'aquests enllaços no funciona, envieu-nos un correu a [Formació](mailto:formacio@cefc.cat).
 
+## Banc de preus de treballs forestals (Forestal Catalana)
+Banc de Forestal Catalana SA (FCSA) per a la realització d'obres i treballs forestals (correccions hidrológiques, reforestacions, treballs silvícoles...) a Catalunya. [Web de l'ITeC](https://itec.cat/banc/default.aspx?IdFie=1280&IdAnalytics=1900838&TipusAnalitics=Entitat&Ori=I&text=). La Fundació Institut de Tecnologia de la Construcció de Catalunya – ITeC és el referent quant a bases de dades de preus d'obres a Catalunya.
+
 ## Moti
 Moti és una aplicació per a smartphone desenvolupada a Suïssa i validada pels serveis forestals del mateix pais. Actualment (abril 2019) s'està posant a prova per part de l'Administració forestal de Catalunya. Es pot fer servir com a relascopi, hipsòmetre, etc. [Pàgina de l'aplicació](http://moti.ch/)
 
