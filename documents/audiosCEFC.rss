@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Allò forestal</title>
+    <link>http://www.cefc.cat</link>
+    <description>Podcast de divulgació forestal</description>
+    <language>es</language>
+    <pubDate>Sat, 08 May 2021 21:44:26 GMT</pubDate>
+    <itunes:owner>
+      <itunes:email />
+      <itunes:name>Allò forestal</itunes:name>
+    </itunes:owner>
+    <itunes:image href="http://www.cefc.cat/images/cefc.png" />
+    <itunes:category text="Allò forestal" />
+    <itunes:author>Col·legi d'Enginyeria de Forests de Catalunya</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords />
+    <itunes:summary>Podcast forestal català</itunes:summary>
+    <image>
+      <title>Allò forestal</title>
+      <url>http://www.cefc.cat/images/cefc.png</url>
+      <link>https://www.cefc.cat</link>
+    </image>
+    <item>
+      <title>Prova 1</title>
+      <link>http://www.cefc.cat</link>
+      <description>	Descripció 1</description>
+      <enclosure url="AlloForestal1.mp4" length="164394" type="audio/mpeg" />
+      <category>Radio/Programas de RNE/Ciencia y Tecnología/A hombros de gigantes</category>
+      <category>Tags Libres/Ciencia y futuro</category>
+      <category>Tags Libres/Biología</category>
+      <category>Tags Libres/Historia</category>
+      <category>Tags Libres/Genética</category>
+      <category>Tags Libres/Literatura y Libros</category>
+      <category>Tags Libres/Inventos</category>
+      <category>Tags Libres/Geología</category>
+      <category>Tags Libres/Espacio</category>
+      <category>Noticias/Ciencia y tecnología</category>
+      <pubDate>Sun, 02 May 2021 03:00:00 GMT</pubDate>
+      <guid>http://www.cefc.cat</guid>
+      <itunes:duration>00:00:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Radio, Programas de RNE, Ciencia y Tecnología, A hombros de gigantes</itunes:keywords>
+      <itunes:subtitle>Genoma de los vertebrados</itunes:subtitle>
+      <itunes:summary>Res a dir.</itunes:summary>
+    </item>
+   
+  </channel>
+</rss>
+
