@@ -28,7 +28,7 @@ Es tracta d'una aplicació ràpida i lleugera que permet crear, importar i compa
 Entre algunes de les aplicacions web (beta) que té l'ICGC es troba la [comparadora d'ortofotos](http://betaportal.icgc.cat/canurb/cathistoric.html), que permet veure simultàniament 3 ortofotos diferents de la sèria històrica de què disposa.
 
 ## IFNApp
-L'IFNApp és la primera peça del recentment desenvolupat *Portal de boscos i canvi climàtic de Catalunya*. És la versió actual del Mirabosc On-line que permet consultar ja les dades del 4t Inventari Forestal Nacional Espanyol. [Pàgina de l'aplicació](http://ifnapp.creaf.cat/)
+L'IFNApp és la primera peça del recentment desenvolupat *Portal de boscos i canvi climàtic de Catalunya*. És la versió actual del Mirabosc On-line que permet consultar ja les dades del 4t Inventari Forestal Nacional Espanyol. [Pàgina de l'aplicació](https://laboratoriforestal.creaf.uab.cat/nfi_app/)
 
 ## Calculadora d'instal·lacions de biomassa
 Pàgina web que permet realitzar càlculs varis relacionats amb els consums, volums i preus de biocombustibles sòlids en instal·lacions de valorització energètica. [Pàgina web de la calculadora](http://www.serveistecnicsenerfust.com/es/calculadora-segun-combustible.html)
